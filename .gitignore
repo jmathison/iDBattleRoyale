@@ -13,6 +13,7 @@ Saved
 *.xcodeproj
 *.xcworkspace
 Content/InfinityBladeEffects/*
-Content/StarterContent/*
 Content/SoulCave/*
 Content/SoulCity/*
+Build/*
+Test Build/*
